@@ -1,0 +1,24 @@
+ALUMNOS
+{
+  "nombreCompleto": "Juan Pérez",
+  "identificacion": "12345678",
+  "telefono": "3001234567",
+  "email": "juan.perez@gmail.com",
+  "direccion": "Calle 123 #45-67",
+  "genero": "Masculino",
+  "numeroMatricula": "20231234",
+  "programa": "Ingeniería de Sistemas",
+  "notaPromedio": 4.2
+}
+PROFESORES
+{
+  "nombreCompleto": "Ana Gómez",
+  "identificacion": "87654321",
+  "telefono": "3109876543",
+  "email": "ana.gomez@gmail.com",
+  "direccion": "Carrera 45 #12-34",
+  "genero": "Femenino",
+  "salario": 4500000,
+  "dependencia": "Departamento de Ingeniería",
+  "materia": "Bases de Datos"
+}
